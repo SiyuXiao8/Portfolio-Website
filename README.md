@@ -1,3 +1,6 @@
+This is a Portfolio Website that I built to let people know what my backgrounds are and the projects I've done.
+It is responsive and can be access on computer, phones, and tablets.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
