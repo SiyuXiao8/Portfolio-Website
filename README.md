@@ -1,5 +1,5 @@
 This is a Portfolio Website that I built to let people know what my backgrounds are and the projects I've done.
-It is responsive and can be access on computer, phones, and tablets.
+It is responsive and can be access on computer, phones, and tablets. It also offers visitor the ability to change the theme/color of the website.
 
 # Getting Started with Create React App
 
