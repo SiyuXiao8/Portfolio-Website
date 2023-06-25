@@ -38,6 +38,7 @@ const App = () => {
     const checkYPos = setInterval(floatingNavToggleHandler, 2000) // run every 2 seconds
     // cleanup function
     return () => clearInterval(checkYPos)
+    // eslint-disable-next-line
   }, [siteYPosition])
 
   return (
