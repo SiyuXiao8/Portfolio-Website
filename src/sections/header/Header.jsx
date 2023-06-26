@@ -16,7 +16,7 @@ const Header = () => {
           <img src={HeaderImage} alt="Header Portrait" />
         </div>
         <h3 data-aos='fade-up-right'>Siyu Xiao</h3>
-        <p data-aos='fade-up-right'>Master of Science student at Northeastern University major in Computer Science</p>
+        <p data-aos='fade-up-right'>Master of Science student at Northeastern University majoring in Computer Science</p>
         <div className="header__cta" data-aos='fade-up-right'>
           <a href="#contact" className='btn primary'>Let's Talk</a>
           <a href="#portfolio" className='btn light'>My Work</a>

@@ -21,7 +21,7 @@ const Portfolio = () => {
   return (
     <section id="portfolio">
       <h2>Recent Projects</h2>
-      <p>Check out some of the projects I worked on. Use the buttons to toggle the different categories.</p>
+      <p>Check out some of the projects I worked on. Use the buttons to toggle different categories.</p>
       <div className="container portfolio__container">
         <ProjectCategories categories={unqiueCategories} onFilterProject={filterProjectsHandler}/>
         <Project projects={projects}/>

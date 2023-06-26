@@ -27,7 +27,7 @@ const About = () => {
               ))
             }
           </div>
-          <p>Graduate Student at Northeastern blah blah blah blahs dhasod hjasodh asod haso dh, Check out my resume below to have a better understanding of my experience</p>
+          <p>I'm a passionate Master of Science student at Northeastern University, majoring in Computer Science. With a background in Finance form my bachelor's degree, I bring a unique perspective to software development. I excel in problem-solving and have a strong attention to detail. I'm committed to continuous learning and collaboration, eager to make meaningful contributions through innovative software solutions. Check out my resume below to have a better understanding of my experience</p>
           <a href={CV} download className='btn primary'>Download CV<BsDownload/></a>
         </div>
       </div>
