@@ -1,15 +1,19 @@
-import { FaAward } from 'react-icons/fa'
-// import { TbBooks } from 'react-icons/tb'
-// import { BiHappyHeartEyes } from 'react-icons/bi'
+import { MdComputer } from 'react-icons/md'
+import { AiOutlineStock } from 'react-icons/ai'
 
 const data = [
   {
     id: 1,
-    icon: <FaAward />,
-    title: 'Education',
-    desc: 'Master Of Science Student @ Northeastern University',
+    icon: <MdComputer />,
+    title: 'Master Of Science Student',
+    desc: ' @ Northeastern University',
   },
-  // { id: 2, icon: <TbBooks />, title: 'Projects', desc: '10+ Completed' },
+  {
+    id: 2,
+    icon: <AiOutlineStock />,
+    title: 'Bachelor of Business Administration - Finance Major',
+    desc: '@ Baruch College',
+  },
   //   {
   //     id: 3,
   //     icon: <BiHappyHeartEyes />,
