@@ -1,10 +1,10 @@
-import Image1 from '../../assets/project1.jpg'
-import Image2 from '../../assets/project2.jpg'
-import Image3 from '../../assets/project3.jpg'
+import Image1 from '../../assets/project1.png'
+import Image2 from '../../assets/project2.png'
+import Image3 from '../../assets/project3.png'
 import Image4 from '../../assets/project4.jpg'
-import Image5 from '../../assets/project5.jpg'
-import Image6 from '../../assets/project6.jpg'
-import Image7 from '../../assets/project7.jpg'
+import Image5 from '../../assets/project5.png'
+import Image6 from '../../assets/project6.png'
+import Image7 from '../../assets/project7.png'
 
 const data = [
   {

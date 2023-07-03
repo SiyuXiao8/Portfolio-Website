@@ -1,4 +1,4 @@
-import AboutImage from '../../assets/about.jpg'
+import AboutImage from '../../assets/about.jpeg'
 import CV from '../../assets/cv.pdf'
 import {BsDownload} from 'react-icons/bs'
 import data from './data'
