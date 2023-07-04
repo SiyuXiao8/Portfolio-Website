@@ -70,6 +70,15 @@
     }
 }
 
+.about__link {
+    color: grey;
+}
+
+.about__link:hover {
+    box-shadow: inset 200px 0 0 0 var(--color-primary);
+    color: white;
+}
+
 /* phones */
 @media screen and (max-width: 600px) {
     .about__cards {

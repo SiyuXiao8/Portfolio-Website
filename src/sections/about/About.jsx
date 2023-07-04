@@ -22,7 +22,7 @@ const About = () => {
                 <Card key={item.id} className="about__card">
                   <span className='about__card-icon'>{item.icon}</span>
                   <h5>{item.title}</h5>
-                  <small>{item.desc}</small>
+                  <a className='about__link' href={item.link}><small>@ {item.desc}</small></a>
                 </Card>
               ))
             }
