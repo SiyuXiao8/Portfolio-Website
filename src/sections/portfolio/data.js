@@ -5,6 +5,7 @@ import Image4 from '../../assets/project4.jpg'
 import Image5 from '../../assets/project5.png'
 import Image6 from '../../assets/project6.png'
 import Image7 from '../../assets/project7.png'
+import Image8 from '../../assets/shell.jpg'
 
 const data = [
   {
@@ -64,6 +65,14 @@ const data = [
     title: 'Portfolio Website with Theme Customization (React)',
     desc: 'It is this Portfolio Website you are looking at right now. Built using React and CSS.',
     github: 'https://github.com/SiyuXiao8/Portfolio-Website',
+  },
+  {
+    id: 8,
+    category: 'other',
+    image: Image8,
+    title: 'Mini shell (Other)',
+    desc: 'It is a command line interpreter I built for the computer system course, programmed in C.',
+    github: 'https://github.com/SiyuXiao8/mini-shell',
   },
 ]
 
