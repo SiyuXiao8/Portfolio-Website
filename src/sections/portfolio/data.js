@@ -70,7 +70,7 @@ const data = [
     id: 8,
     category: 'other',
     image: Image8,
-    title: 'Mini shell (Other)',
+    title: 'Mini shell (C)',
     desc: 'It is a command line interpreter I built for the computer system course, programmed in C.',
     github: 'https://github.com/SiyuXiao8/mini-shell',
   },
