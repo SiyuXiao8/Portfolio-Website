@@ -6,6 +6,7 @@ import Image5 from '../../assets/project5.png'
 import Image6 from '../../assets/project6.png'
 import Image7 from '../../assets/project7.png'
 import Image8 from '../../assets/shell.jpg'
+import Image9 from '../../assets/project9.png'
 
 const data = [
   {
@@ -27,9 +28,9 @@ const data = [
   },
   {
     id: 3,
-    category: 'fullstack',
+    category: 'other',
     image: Image4,
-    title: 'Twitter Clone (Fullstack)',
+    title: 'Twitter Clone (Web)',
     desc: 'This is an Twiiter Clone. Built using the MERN (Mongodb, Express.js, React.js, Node.js) stack.',
     github: 'https://github.com/SiyuXiao8/tuiter-react-web-app',
   },
@@ -73,6 +74,16 @@ const data = [
     title: 'Mini shell (C)',
     desc: 'It is a command line interpreter I built for the computer system course, programmed in C.',
     github: 'https://github.com/SiyuXiao8/mini-shell',
+  },
+  {
+    id: 9,
+    category: 'fullstack',
+    image: Image9,
+    demo: 'https://www.youtube.com/watch?v=DYkDmFQyVoY',
+    title: 'BrainRush App (Android App)',
+    desc: 'A Educational app that provides users quizzes, ability to make questions, and features to compete with each other.',
+    github:
+      'https://github.com/CS5520FeinbergSpring2024/team-project-Brain-Rush-group15',
   },
 ]
 
