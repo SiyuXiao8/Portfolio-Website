@@ -7,6 +7,7 @@ import Image6 from '../../assets/project6.png'
 import Image7 from '../../assets/project7.png'
 import Image8 from '../../assets/shell.jpg'
 import Image9 from '../../assets/project9.png'
+import Image10 from '../../assets/project10.png'
 
 const data = [
   {
@@ -74,6 +75,15 @@ const data = [
     title: 'Mini shell (C)',
     desc: 'It is a command line interpreter I built for the computer system course, programmed in C.',
     github: 'https://github.com/SiyuXiao8/mini-shell',
+  },
+  {
+    id: 10,
+    category: 'other',
+    image: Image10,
+    title: 'House Price Prediction (Machine Learning)',
+    desc: 'Kaggle Competition where several machine learning algorithm are used to try to reach the most optimal result',
+    github:
+      'https://github.com/SiyuXiao8/House_Price_Prediction_Machine_Learning',
   },
   {
     id: 9,
